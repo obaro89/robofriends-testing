@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render the cardlist componenr 1`] = `
+<div>
+  <Card
+    email="Sincere@april.biz"
+    id={1}
+    key="0"
+    name="Leanne Graham"
+  />
+</div>
+`;
+
+exports[`render the cardlist component 1`] = `
+<div>
+  <Card
+    email="Sincere@april.biz"
+    id={1}
+    key="0"
+    name="Leanne Graham"
+  />
+</div>
+`;
